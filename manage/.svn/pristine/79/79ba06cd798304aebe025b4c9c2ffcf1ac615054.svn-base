@@ -1,0 +1,23 @@
+#MySQL RDS\u6570\u636E\u5E93\u8FDE\u63A5\u914D\u7F6E\u4FE1\u606F
+dataSource.db.jdbc.driver=${database.jdbc.driver}
+dataSource.db.jdbc.url=${database.jdbc.url}
+dataSource.db.jdbc.username=${database.jdbc.username}
+dataSource.db.jdbc.password=${database.jdbc.password}
+dataSource.db.jdbc.initialSize=${database.jdbc.initialSize}
+dataSource.db.jdbc.maxActive=${database.jdbc.maxActive}
+dataSource.db.jdbc.minIdle=${database.jdbc.minIdle}
+dataSource.db.jdbc.maxIdle=${database.jdbc.maxIdle}
+#GreenPlum \u6570\u636E\u5E93\u8FDE\u63A5\u914D\u7F6E\u4FE1\u606F
+dataSource.db.jdbc.greenplum.driver=${database.greenplum.driver}
+dataSource.db.jdbc.greenplum.url=${database.greenplum.url}
+dataSource.db.jdbc.greenplum.username=${database.greenplum.username}
+dataSource.db.jdbc.greenplum.password=${database.greenplum.password}
+dataSource.db.jdbc.greenplum.initialSize=${database.greenplum.initialSize}
+dataSource.db.jdbc.greenplum.maxActive=${database.greenplum.maxActive}
+dataSource.db.jdbc.greenplum.minIdle=${database.greenplum.minIdle}
+dataSource.db.jdbc.greenplum.maxIdle=${database.greenplum.maxIdle}
+#ODPS\u914D\u7F6E
+ODPS_PROJECT_NAME=${ODPS_PROJECT_NAME}
+ODPS_ACCESSID=${ODPS_ACCESSID}
+ODPS_ACCESSKEY=${ODPS_ACCESSKEY}
+ODPS_URL=${ODPS_URL}

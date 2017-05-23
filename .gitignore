@@ -1,0 +1,7 @@
+*.[properties]
+.settings
+.project
+.svn
+/src/filters/
+/target/
+/src/resources/

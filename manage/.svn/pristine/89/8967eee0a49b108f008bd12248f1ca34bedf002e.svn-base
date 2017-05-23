@@ -1,9 +1,0 @@
-loghub.endpoint=${loghub.endpoint}
-loghub.projectName=${loghub.projectName}
-loghub.platformLogstore=${loghub.platformLogstore}
-loghub.operationLogstore=${loghub.operationLogstore}
-loghub.nodeRTLogstore=${loghub.nodeRTLogstore}
-loghub.deviceRTLogstore=${loghub.deviceRTLogstore}
-loghub.webLogstore=${loghub.webLogstore}
-loghub.accessKeyId=${loghub.accessKeyId}
-loghub.accessKey=${loghub.accessKey}
